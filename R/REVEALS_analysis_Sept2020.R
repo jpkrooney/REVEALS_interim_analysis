@@ -84,7 +84,7 @@ corrplot(M_bulb, method = "number", type = "full")
 
 
 ## Bayesian Multiple outcomes longitudinal model
-#To determine the agreement across the four outcome metrics, we will use a multiple outcome longitudinal model #implemented in Stan via the package brms. In this model, outcomes are considered to be samples from a multivariate normal distribution as a function of independent variables - which may vary per outcome - and with a number of options available to represent the correlation between outcomes. In our modeling we will use the same independent variables for each outcome as they are all metrics of respiratory function. Since our four outcomes are measured contemporaneously in individuals, we will use a random effects longitudinal model. Site of onset will be included as a fixed effect in interaction with time 
+#To determine the agreement across the four outcome metrics, we will use a multiple outcome longitudinal model implemented in Stan via the package brms. In this model, outcomes are considered to be samples from a multivariate normal distribution as a function of independent variables - which may vary per outcome - and with a number of options available to represent the correlation between outcomes. In our modeling we will use the same independent variables for each outcome as they are all metrics of respiratory function. Since our four outcomes are measured contemporaneously in individuals, we will use a random effects longitudinal model. Site of onset will be included as a fixed effect in interaction with time 
 
 
 #### First perform prior predictive check as per Bayesian workflow ####
