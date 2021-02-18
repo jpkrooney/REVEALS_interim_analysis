@@ -3,7 +3,7 @@
 
 ## Correlations between measures of ALS respiratory Function: Is there an alternative to FVC?
 
-Authors: Dr. Deirdre Murray1,2, Dr. James Rooney1,3, Prof Ammar Al-Chalabi4,5, Mr. Tommy Bunte6, Ms Theresa Chiwera4,5, Mutahhara Choudhury4,5, Prof Adriano Chio7,8, Ms Lauren Fenton1, Dr. Jennifer Fortune1, Ms. Lindsay Maidment9, Dr. Umberto Manera7, Prof Chris McDermott9,10, Dr. Dara Meldrum1, Ms. Myrte Meyjes6, Rachel Tattersall1,2, Dr. Maria Claudia Torrieri7, Prof Philip Van Damme11,12, Elien Vanderlinden11, Ms. Claire Wood4,5, Prof Leonard H. Van Den Berg6, Prof. Orla Hardiman1,2 
+Authors: Dr. Deirdre Murray<sup>1,2</sup>, Dr. James Rooney1,3, Prof Ammar Al-Chalabi4,5, Mr. Tommy Bunte6, Ms Theresa Chiwera4,5, Mutahhara Choudhury4,5, Prof Adriano Chio7,8, Ms Lauren Fenton1, Dr. Jennifer Fortune1, Ms. Lindsay Maidment9, Dr. Umberto Manera7, Prof Chris McDermott9,10, Dr. Dara Meldrum1, Ms. Myrte Meyjes6, Rachel Tattersall1,2, Dr. Maria Claudia Torrieri7, Prof Philip Van Damme11,12, Elien Vanderlinden11, Ms. Claire Wood4,5, Prof Leonard H. Van Den Berg6, Prof. Orla Hardiman1,2 
 
 Affiliations:
 1.	Academic Unit of Neurology, Trinity College Dublin, Ireland
