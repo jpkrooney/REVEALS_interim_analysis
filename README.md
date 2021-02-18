@@ -3,7 +3,7 @@
 
 ## Correlations between measures of ALS respiratory Function: Is there an alternative to FVC?
 
-Authors: Dr. Deirdre Murray<sup>1,2</sup>, Dr. James Rooney1,3, Prof Ammar Al-Chalabi4,5, Mr. Tommy Bunte6, Ms Theresa Chiwera4,5, Mutahhara Choudhury4,5, Prof Adriano Chio7,8, Ms Lauren Fenton1, Dr. Jennifer Fortune1, Ms. Lindsay Maidment9, Dr. Umberto Manera7, Prof Chris McDermott9,10, Dr. Dara Meldrum1, Ms. Myrte Meyjes6, Rachel Tattersall1,2, Dr. Maria Claudia Torrieri7, Prof Philip Van Damme11,12, Elien Vanderlinden11, Ms. Claire Wood4,5, Prof Leonard H. Van Den Berg6, Prof. Orla Hardiman1,2 
+Authors: Dr. Deirdre Murray<sup>1,2</sup>, Dr. James Rooney<sup>1,3</sup>, Prof Ammar Al-Chalabi<sup>4,5</sup>, Mr. Tommy Bunte<sup>6</sup>, Ms Theresa Chiwera<sup>4,5</sup>, Mutahhara Choudhury<sup>4,5</sup>, Prof Adriano Chio<sup>7,8</sup>, Ms Lauren Fenton<sup>1</sup>, Dr. Jennifer Fortune<sup>1</sup>, Ms. Lindsay Maidment<sup>9</sup>, Dr. Umberto Manera<sup>7</sup>, Prof Chris McDermott<sup>9,10</sup>, Dr. Dara Meldrum<sup>1</sup>, Ms. Myrte Meyjes<sup>6</sup>, Rachel Tattersall<sup>1,2</sup>, Dr. Maria Claudia Torrieri<sup>7</sup>, Prof Philip Van Damme<sup>11,12</sup>, Elien Vanderlinden<sup>11</sup>, Ms. Claire Wood<sup>4,5</sup>, Prof Leonard H. Van Den Berg<sup>6</sup>, Prof. Orla Hardiman<sup>1,2</sup> 
 
 Affiliations:
 1.	Academic Unit of Neurology, Trinity College Dublin, Ireland
